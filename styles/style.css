@@ -1,7 +1,15 @@
-#para1{
+#blog1{
     background-color: tomato;
+    padding: 10px;
+    margin: 30px;
 }
 
-#para2{
+#blog2{
     background-color: aquamarine;
+    padding: 10px;
+    margin: 30px;
+}
+
+h2{
+    text-align: center;
 }
